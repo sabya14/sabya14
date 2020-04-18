@@ -6,7 +6,6 @@ description         : >-
                       and never broke production."
 baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          : sabya14/sabya14     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
-remote_theme        : YoussefRaafatNasry/portfolYOU
 
 
 ### Plugins ###
@@ -17,6 +16,7 @@ plugins:
 ### Navbar Settings ###
 nav_exclude:                                            # The following paths are excluded from navbar
   - pages/tags.html
+  - pages/projects.html
   - pages/404.html
   - pages/index.md
 
@@ -49,10 +49,10 @@ permalink: /blog/:title
 
 
 ### Collections ###
-collections:
-  projects:
-    output: true
-    permalink: /projects/:name
+#collections:
+#  projects:
+#    output: true
+#    permalink: /projects/:name
 
 
 ### Defaults for collections ###
