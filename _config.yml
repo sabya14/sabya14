@@ -1,9 +1,8 @@
 ### Site Settings ###
 title               : neel_code
 description         : >-
-                      "I turn coffee :coffee: into code,
-                      use tabs over spaces
-                      and never broke production."
+                      "Caffeine :coffee: powered coding,
+                      adapting to TDD and learning to handle to data."
 baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          : sabya14/sabya14     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 
@@ -24,16 +23,15 @@ nav_exclude:                                            # The following paths ar
 ### Author Info ###
 author:
   name              : Sabyasachi Nandy
-  image             : https://bit.ly/2KCvgVJ
 #  behance           : your_username
 # dribbble          : your_username
-  email             : username@domain.com
+  email             : sabya.nandy14@gmail.com
 #  facebook          : your_username
-  github            : your_username
+  github            : sabya14
 # gitlab            : your_username
 # instagram         : your_username
-  linkedin          : your_username
-  medium            : your_username
+  linkedin          : sabyasachi-nandy-293574132
+  medium            : sabya.nandy14
 # soundcloud        : your_username
 # spotify           : your_username
 # stackoverflow     : your_user_id
