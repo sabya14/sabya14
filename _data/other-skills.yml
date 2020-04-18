@@ -1,7 +1,11 @@
-- name: Adobe Photoshop
-  percentage: 95
+- name: Spark
+  percentage: 80
   color: info
 
-- name: Adobe Illustrator
-  percentage: 90
+- name: Airflow
+  percentage: 80
   color: success
+
+- name: Hadoop Ecosystem
+  percentage: 70
+  color: Teal
