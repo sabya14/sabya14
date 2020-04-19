@@ -8,14 +8,12 @@ weight: 3
 # **About Me**
 
 Hey, I am **{{ site.author.name }}** :wave:.<br> <br>
-I am software developer working out from Pune, India. I am passionate about developing data driven systems.
-Taking serious efforts to transition from a Full Stack Developer to a Data Engineer. I believe in TDD and the notion of
-quality over quantity.
+I am a software developer working from Pune, India. I am passionate about developing data driven systems
+and taking serious efforts to transition from a Full Stack Developer to a Data Engineer. I believe in TDD and the notion of quality over quantity.
 
-I am a proud engineer, and besides coding, I love to create anything and everything. I take particular interest in
-reading about latest development in the field of electronics and gadgets.
+I am a proud engineer, and besides coding, I love to create anything and everything. I take particular interest in reading about latest developments in the field of electronics and gadgets.
 
-Inspirational films make my day! Besides this a long day behind the wheel among twisties puts a smile on my face.
+Inspirational films make my day! Besides this a long day behind the wheel sthrough twisties puts a smile on my face.
 
 <br>
 <br>
