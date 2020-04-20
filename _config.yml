@@ -1,8 +1,8 @@
 ### Site Settings ###
 title               : neel_code
 description         : >-
-                      Caffeine :coffee: powered coding,
-                      adapting to TDD and learning to handle to data.
+                      Code drives me, Caffeine :coffee: completes me.
+                      Capable of turning data to insights.
 baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          : sabya14/sabya14     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 
