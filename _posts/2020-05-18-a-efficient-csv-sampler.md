@@ -6,9 +6,9 @@ color: dark
 description: An efficient way to quickly sample out rows from large csv files without reading the file in memory.
 ---
 
-The following program, when given an CSV files, will return you at least 500 random distinct rows(or total numbers of rows in your file, if file size is less than 500).
-It is particularly helpful when you only want to certain amount of rows in our CSV, without reading the whole file. 
-
+The following program, when given a CSV file,
+ will return you at least 500 random distinct rows(or total number of rows in your file, if file size is less than 500).
+  It is particularly helpful when you only want certain amount of rows in your CSV, without reading the whole file.
 ```java
 /* CSVReservoirSampling.java */
 package com.neel.data_analyzer.utils;
